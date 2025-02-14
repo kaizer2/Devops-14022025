@@ -1,10 +1,5 @@
 # Devops-14022025
 
-
-
-
-
-
-
-
-bonjour au charbon
+=======
+GILLESSSSSSSSSSSSSSSSSSS
+>>>>>>> origin/dev-gilles
